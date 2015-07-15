@@ -26,7 +26,7 @@ Click the run button in Xcode.
 
 ### About the code
 
-Stop spending six months digesting Apple iOS developer docs, or three months on a Standford course.  
+Stop spending six months digesting Apple iOS developer docs; or a semester over a Standford course!  
 
 As a pro JavaScript developer, start writing app-store ready iOS apps *this afternoon* with React Native!
 
