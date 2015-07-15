@@ -62,6 +62,9 @@ And its super rich tool support that makes iOS development a cake walk:
 
 ![Rich developer tool support in React Native](http://www.ibm.com/developerworks/mobile/library/mo-bluemix-react-native-ios8/Figure7.jpg)
 
+Start now! Click:
+
+[React Native: Into a new world of rapid iOS development](http://www.ibm.com/developerworks/mobile/library/mo-bluemix-react-native-ios8/index.html)
 
 
 
